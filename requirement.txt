@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+random
+webbrowser
+datetime
+plyer
+AppOpener
+wikipedia
+google-generativeai
+python-dotenv
+requests
